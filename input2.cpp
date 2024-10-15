@@ -4,7 +4,7 @@ using namespace std;
 int main ()
 {
 	int x,y,z,sum;
-	cout <<"Edo o ka number ivvara lanja: ";
+	cout <<"Give a number: ";
 	cin >>x>>y>>z;
 	sum=x+y+z;
 	cout <<"sum is "<< sum;
