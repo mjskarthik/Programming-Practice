@@ -4,9 +4,9 @@ using namespace std;
 int main ()
 {
 	int x;
-	cout <<"Edo o ka number ivvara lanja: ";
+	cout <<"Give number: ";
 	cin >>x;
 	cout <<" "<<x;
-	cout <<" ichav entra lambdi kodaka ";
+	cout <<"Good Job";
 	return 0;
 }
